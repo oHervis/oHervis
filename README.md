@@ -1,6 +1,8 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oHervis&layout=compact&langs_count=7&theme=dracula" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oHervis&layout=compact&langs_count=7&theme=dracula" min-width="400px" max-width="400px" width="400px"  alt="Computador iuriCode">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" alt="Computador iuriCode">
+  
+</div>
 <p align="left"> 
 Desenvolvedor web e entusiasta Clean Code. Meu nome é Alexandro Hervis. 
   
