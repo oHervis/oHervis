@@ -3,11 +3,11 @@
   
 
 <p align="left"> 
-Desenvolvedor web e entusiasta Clean Code. Meu nome é Alexandro Hervis. 
+Aowpa, bão?. Meu nome é Alexandro Hervis e eu sou entusiata de arquitetura de software e design de aplicação. 
   
-Sou Desenvolvedor Front-End mas curto muito trabalhar com Nodejs. Apaixonado por inovação, tecnologia e empreendedorismo, gosto de estar sempre me atualizando as novas tecnologias do mercado, buscando levar diferentes experiências em UX UI para meus usuários. 
+Sou Desenvolvedor Front-End mas curto muito trabalhar com backend. Apaixonado por inovação, tecnologia e empreendedorismo, gosto de estar sempre me atualizando as novas tecnologias do mercado, buscando levar diferentes experiências em UX UI para meus usuários. 
 
-Atualmente estou focado em NestJs e Backend, aplicando Clean Architecture, SOLID e TDD; 
+Atualmente sou Staff Engineer na @Db1 Global Software :) 
 
 Javascript iMasters Certified Professional
 
@@ -18,7 +18,7 @@ Javascript iMasters Certified Professional
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> AWS, Domain Driven Design, TDD, Jest
+  💼 Ferramentas: <strong> AWS, Kubernetes, Domain Driven Design, TDD, Lit Element, Vite, Vue, Angular, React, NextJS, NuxtJs e tudo que vier kkkk</strong>
 </p>
 
 <p align="left">
