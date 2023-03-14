@@ -3,7 +3,7 @@
   
 
 <p align="left"> 
-Aowpa, bão?. Meu nome é Alexandro Hervis e eu sou entusiata de arquitetura de software e design de aplicação. 
+Aowpa, bão? Meu nome é Alexandro Hervis e eu sou entusiata de arquitetura de software e design de aplicação. 
   
 Sou Desenvolvedor Front-End mas curto muito trabalhar com backend. Apaixonado por inovação, tecnologia e empreendedorismo, gosto de estar sempre me atualizando as novas tecnologias do mercado, buscando levar diferentes experiências em UX UI para meus usuários. 
 
