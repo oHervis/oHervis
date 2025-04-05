@@ -36,6 +36,6 @@ Comecei minha carreira como dev Front-End mas depois de muito backend e arquitet
   
 
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/alexandro_hervis/"/></a>
+  <a href="https://www.instagram.com/alexandro_hervis" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
 </p>
